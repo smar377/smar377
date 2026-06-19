@@ -1,5 +1,5 @@
 ```
-🖧 netauto engineer > enable
+🌐 netauto engineer > enable
 Password:
 # infra & k8s enthusiast
 # security curious
